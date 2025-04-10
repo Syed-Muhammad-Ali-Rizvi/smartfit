@@ -37,12 +37,12 @@ body {
   border-radius: 25px;
   text-decoration: none;
   font-weight: bold;
+  transition: all 0.9s ease !important;
 }
 
 .btn:hover {
   background-color: #eee;
   color: #000000;
-  transition: all 0.3s ease;
 }
 
 .card:hover {
